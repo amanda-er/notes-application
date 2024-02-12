@@ -30,3 +30,7 @@ THEN I can click the trash icon button to delete the note
 
 ## LINKS 
 http://localhost:3001/notes?
+
+https://amanda-er.github.io/notes-application/
+
+https://github.com/amanda-er/notes-application.git
